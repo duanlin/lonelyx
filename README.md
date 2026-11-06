@@ -1,17 +1,17 @@
-Lonelyx is a RISC instruction set architecture
-
-It supports：
-instruction pipeline with conrigurable levels
-in-order or out-of-order execution
-float-point extension and vectorized extension
-SIMD instructions with 2-16 parallel operations
-implementation defined extensible instructions
-cluster of cores up to 256 * 64K cores
-up to 3 levels coherency cache structure
-optional tightly coupled memory
-built-in cluster and system spinlock
-MPU with protected memory space
-APU with virtual memory space
-GPU with cluster and system barriers
-hypervisor mode virtual machine
-secure monitor and trust zone
+Lonelyx is a RISC instruction set architecture<br/>
+<br/>
+It supports：<br/>
+instruction pipeline with conrigurable levels<br/>
+in-order or out-of-order execution<br/>
+float-point extension and vectorized extension<br/>
+SIMD instructions with 2-16 parallel operations<br/>
+implementation defined extensible instructions<br/>
+cluster of cores up to 256 * 64K cores<br/>
+up to 3 levels coherency cache structure<br/>
+optional tightly coupled memory<br/>
+built-in cluster and system spinlock<br/>
+MPU with protected memory space<br/>
+APU with virtual memory space<br/>
+GPU with cluster and system barriers<br/>
+hypervisor mode virtual machine<br/>
+secure monitor and trust zone<br/>
